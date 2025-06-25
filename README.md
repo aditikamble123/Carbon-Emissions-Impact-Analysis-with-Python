@@ -46,18 +46,10 @@ jupyter notebook Carbon_Emissions_Impact_Analysis_with_Python.ipynb
 ```
 
 ---
+## PLOTS
+![newplot (1)](https://github.com/user-attachments/assets/4ce33af4-fbb5-4b37-81e5-330cf4cd48c0)
+![newplot (2)](https://github.com/user-attachments/assets/a0e29d04-17ee-478d-9410-1109e39b4f5f)
 
-## 📁 Suggested GitHub Folder Structure
-
-```
-carbon-emissions-impact-analysis/
-├── Carbon_Emissions_Impact_Analysis_with_Python.ipynb
-├── README.md
-├── requirements.txt
-└── data/                  # Optional: place datasets here
-```
-
----
 
 ## 💡 Key Findings (add your insights here)
 
@@ -75,7 +67,7 @@ MIT License
 
 ## 🙌 Acknowledgements
 
-* Dataset source: *(add source link or name)*
+* Dataset source: https://statso.io/carbon-emissions-worldwide-case-study/
 
 ````
 
